@@ -454,6 +454,7 @@ footer {
 
 .profile-circle {
     overflow: hidden;
+    position: relative;
 }
 
 .profile-circle img {
@@ -462,6 +463,7 @@ footer {
     object-fit: cover;
     object-position: center top;
     display: block;
+    border-radius: 50%;
 }
 
 .profile-status {
